@@ -1,2 +1,2 @@
 # TabRecSet
-A large scale camera-taken table detection and recognition dataset.
+A large scale camera-taken dataset for table detection and recognition tasks.
