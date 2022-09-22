@@ -9,3 +9,6 @@
 
 # Download TabRecSet
 Download link will be released soon! :)
+
+# TabRecAnnotator: A “What you see is what you get” annotation tool for end-to-end table recognition task
+![image](https://user-images.githubusercontent.com/33459391/191698635-ae75f3f4-303e-4058-aecf-db4ce3ef9d88.png)
