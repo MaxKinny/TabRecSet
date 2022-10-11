@@ -1,7 +1,5 @@
 # Download TabRecSet
 
-Download link will be released soon! :)
-
 Citation: 
 ```
 yang, F. & Hu, L. Tabrecset: A large scale dataset for end-to-end table recognition in the wild. figshare https://doi.org/10.336
