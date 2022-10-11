@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/33459391/191695708-fc705d4b-2d6e-4af9-aa00-d26dc50e2cde.png)
 
 # Download TabRecSet
-Download link will be released soon! :)
+Download link: https://drive.google.com/file/d/1qHJaD7ND4okKUwBGrBrL7nJOC61iA3cl/view?usp=sharing
 
 # TabRecAnnotator: A “What you see is what you get” annotation tool for end-to-end table recognition task
 ![image](https://user-images.githubusercontent.com/33459391/191698635-ae75f3f4-303e-4058-aecf-db4ce3ef9d88.png)
