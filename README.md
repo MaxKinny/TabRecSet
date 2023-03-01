@@ -3,7 +3,7 @@
 DOI: 
 
 ```
-https://doi.org/10.3366084/m9.figshare.20647788
+https://doi.org/10.6084/m9.figshare.20647788
 ```
 
 # The annotation tool TableMe:
