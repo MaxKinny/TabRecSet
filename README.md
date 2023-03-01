@@ -49,7 +49,7 @@ Yang, F., Hu, L., Liu, X. et al. A large-scale dataset for end-to-end table reco
 
 # OCR Annotations
 We also provide OCR annotations from Tencent OCR APIs:
-
+![image](https://user-images.githubusercontent.com/33459391/222130324-1f2b5b02-a088-44ab-b855-02f443b7f1ab.png)
 ![2e4821601e461120d7e762b74e9a892](https://user-images.githubusercontent.com/33459391/222127521-1e38416b-b8d8-4345-a9cb-6c28234ed90a.jpg)
 
 # License:
