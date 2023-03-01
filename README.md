@@ -47,5 +47,10 @@ or
 Yang, F., Hu, L., Liu, X. et al. A large-scale dataset for end-to-end table recognition in the wild. Sci Data 10, 110 (2023). https://doi.org/10.1038/s41597-023-01985-8
 ```
 
+# OCR Annotations
+We also provide OCR annotations from Tencent OCR APIs:
+
+![2e4821601e461120d7e762b74e9a892](https://user-images.githubusercontent.com/33459391/222127521-1e38416b-b8d8-4345-a9cb-6c28234ed90a.jpg)
+
 # License:
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
