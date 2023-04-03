@@ -22,6 +22,8 @@ https://doi.org/10.6084/m9.figshare.20647788
 Download link: https://doi.org/10.6084/m9.figshare.20647788
 ![image](https://user-images.githubusercontent.com/33459391/222026699-b7dc0824-3702-464c-8a16-d89db35a6d47.png)
 
+**Dependencies**:
+Anaconda, PyQT5, Labelme
 
 # Please Cite Our Paper
 DOI:
