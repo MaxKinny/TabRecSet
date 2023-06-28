@@ -22,8 +22,11 @@ https://doi.org/10.6084/m9.figshare.20647788
 Download link: https://doi.org/10.6084/m9.figshare.20647788
 ![image](https://user-images.githubusercontent.com/33459391/222026699-b7dc0824-3702-464c-8a16-d89db35a6d47.png)
 
+**Demostration**
+![image](https://github.com/MaxKinny/TabRecSet/blob/main/demo_TableMe.gif)
+
 **Dependencies**:
-Anaconda, PyQT5, Labelme
+Anaconda, PyQT5, Labelme (Open at least one time)
 
 # Please Cite Our Paper
 DOI:
