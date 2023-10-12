@@ -28,6 +28,11 @@ Download link: https://doi.org/10.6084/m9.figshare.20647788
 
 **Dependencies**:
 Anaconda, PyQT5, Labelme (Open at least one time)
+If you cannot open it, please try:
+```
+1. After installing LabelMe, it is necessary to open it once.
+2. Try to run the EXE in the Administrator mode.
+```
 
 # Please Cite Our Paper
 DOI:
