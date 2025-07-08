@@ -67,4 +67,6 @@ We also provide OCR annotations from Tencent OCR APIs:
 # License:
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-# Updates:
+## News
+* 2025.01.06: We have registered software copyright for TableMe.
+* 2025.07.08: We have released the fully functional version of TableMe.
