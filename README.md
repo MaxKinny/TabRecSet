@@ -70,3 +70,4 @@ We also provide OCR annotations from Tencent OCR APIs:
 ## News
 * 2025.01.06: We have registered software copyright for TableMe.
 * 2025.07.08: We have released the fully functional version of TableMe.
+* 2025.07.21: Provide the PubTabNet dataset format and the cropped samples with single table per image.
